@@ -1,0 +1,1 @@
+Practice project for CSS , available on The Odin Project's foundation course.
